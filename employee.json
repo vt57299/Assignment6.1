@@ -1,0 +1,7 @@
+[
+    {"name" : "demo1","dob" : "1/jan/2000", "height": " 5 ",   "city" : "Rohtak",   "state": "Haryana"},
+    {"name" : "demo2","dob" : "1/jan/2001", "height": " 5.1 ", "city" : "Delhi",    "state": "Delhi"  },
+    {"name" : "demo3","dob" : "1/jan/2002", "height": " 5.2 ", "city" : "New Delhi","state": "Delhi"  },
+    {"name" : "demo4","dob" : "1/jan/2003", "height": " 5.3 ", "city" : "Panaji",   "state": "Goa"    },
+    {"name" : "demo5","dob" : "1/jan/2004", "height": " 5.5 ", "city" : "Rewari",   "state": "Haryana"}
+]
